@@ -2,6 +2,7 @@
     "id": "chat-push",
     "title": "Chat Push - pushing chat messages to an external server",
     "description": "A simple module facilitating play-by-mail playing by pushing new messages to external servers.",
+    "url": "https://raw.githubusercontent.com/tboboli/foundry-vtt-chat-push/main/foundry-vtt-chat-push.zip",
     "authors": [
       {
       "name": "TB"
